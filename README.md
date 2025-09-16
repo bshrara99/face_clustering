@@ -23,7 +23,7 @@ The user can see the differnt clusters folders, and see images inside each folde
 Assuming you have git and python installed, kindly follow the steps below:
 - Clone the repository:
 ```
-git clone https://github.com/Ali-Homany/faces_clusterer.git
+git clone https://github.com/bshrara99/face_clustering.git
 ```
 
 - Install dependencies:
